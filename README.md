@@ -6,3 +6,5 @@ The hardest part understanding the Twitter API, the code is very simple.
 
 One limiting factor about this bot is that you have to keep your program running for it to go through your whole text file.
 If I could run this through a cloud device it would solve that problem easily but alas.
+
+See Twitter Handle - @QuinnLeven <- This is the bot.
