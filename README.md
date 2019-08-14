@@ -11,3 +11,9 @@ At the moment, the bot only retweets a tweet every hour or so that I don't get f
 Goal is to enter into some contests and win some stupid prizes!
 
 See Twitter Handle - @QuinnLeven <- This is the bot.
+
+
+**UPDATE 8/14/2019***
+I believe that Twitter has changed their API & their TOS so this bot currently won't work as intended anymore.
+Account did get banned a while back, but now it should be back up.
+At this point I will not be updating the bot, but I will keep this HUB up as an archive.
