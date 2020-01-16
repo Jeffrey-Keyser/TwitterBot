@@ -1,15 +1,16 @@
 # TwitterBot
-There is one file that I haven't added because it contains my specific API key and as this domain is public I decided to not 
+**Notes**
+-There is one file that I haven't added because it contains my specific API key and as this domain is public I decided to not 
 publish it.
 
-The hardest part was understanding the Twitter API, overall the code is very simple.
+-The hardest part was understanding the Twitter API, overall the code is very simple.
 
-One limiting factor when considering this bot is that you have to keep your program running for it to go through your whole text file.
+-One limiting factor when considering this bot is that you have to keep your program running for it to go through your whole text file.
 The next step would to be running this code remotely on a server.
 
-At the moment, the bot only retweets a tweet every hour or so that I don't get flagged by the Twitter Police.
+-At the moment, the bot only retweets a tweet every hour or so that I don't get flagged by the Twitter Police.
 
-Overall Goal of the project is to enter into some contests and win some stupid prizes!
+-Overall Goal of the project is to enter into some contests and win some stupid prizes!
 
 **Twitter Handle**
 @QuinnLeven <- This is the bot.
