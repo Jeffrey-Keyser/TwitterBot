@@ -1,5 +1,6 @@
 # TwitterBot
 **Notes**
+
 -There is one file that I haven't added because it contains my specific API key and as this domain is public I decided to not 
 publish it.
 
